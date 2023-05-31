@@ -7,8 +7,7 @@ import About from './Components/About';
 import {
   BrowserRouter as Router,
   Routes,
-  Route, 
-  Link
+  Route
 } from "react-router-dom";
 // import title from './module';
 // let name="Ashok";
